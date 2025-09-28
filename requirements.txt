@@ -1,6 +1,0 @@
-Django>=5.2.2
-django-allauth>=0.60.1
-Pillow>=10.0.0
-python-decouple>=3.8
-django-ckeditor>=6.7.0
-django-ckeditor-uploader>=0.2.2
